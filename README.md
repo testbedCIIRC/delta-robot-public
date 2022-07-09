@@ -8,6 +8,7 @@ The model was rearranged and supplemented particularly for inputs: reference joi
 In Simulink model, the proposed mathematical kinematic and dynamic model of the robot can be found with MATLAB Function blocks. 
 
 To start simulation, run the file RL5_6kg_Model_Run.m. Read the comments provided in the scripts. 
+Then, the trajectories Trj2_RL5_1450_6kg_Ts_1ms.mat and Trj3_RL5_1450_6kg_Ts_1ms.mat can also be employed just loading those files and running the Simulink model.
 
 Cite as: 
 Alikoc, B., Sustr, V., Zitek, F., Rehorik, J., Burget, P. and Lomakin A. Motion Modelling and Simulation of a 5-Axis Industrial Delta Robot. 
