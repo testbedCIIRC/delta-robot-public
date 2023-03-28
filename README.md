@@ -10,5 +10,9 @@ In Simulink model, the proposed mathematical kinematic and dynamic model of the 
 To start simulation, run the file RL5_6kg_Model_Run.m. Read the comments provided in the scripts. 
 Then, the trajectories Trj2_RL5_1450_6kg_Ts_1ms.mat and Trj3_RL5_1450_6kg_Ts_1ms.mat can also be employed just loading those files and running the Simulink model.
 
+A Simulink model for basic 3-DoF Delta robot, created via excluding the serial wrist arms and the telescopic shaft bodies from RL5-1450-6kg, is provided too. 
+To simulate this model, run the file Basic_3DoF_Delta_Model_Run.m. In this simulation, the proposed dynamic model is compared with the model proposed in
+"Codourey, A., 1996, “Dynamic modelling and mass matrix evaluation of the DELTA parallel robot for axes decoupling control,” IEEE International Conference on Intelligent Robots and Systems, Vol. 3, pp. 1211–1218."
+
 Cite as: 
 Alikoc, B., Sustr, V., Zitek, F., Burget, P. and Lomakin A. Motion Modelling of a 5-Axis Delta Robot with Telescopic Shafts, 2023. 
